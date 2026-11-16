@@ -1,0 +1,1 @@
+{"name":"sdp-final-prep","private":true,"type":"module","scripts":{"test":"node --test tests.mjs"}}
